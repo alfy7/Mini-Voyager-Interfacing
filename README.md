@@ -1,4 +1,4 @@
-# Mini-Voyager-Interfacing
+# Mini Voyager Interfacing
 A set of portable codes that interface with the components found on the Mini-Voyager 1 and 2.
 These codes are written for the MSP430G2553 which can be easily connected to the Mini-Voyagers with jumper wires.
 
